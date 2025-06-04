@@ -610,6 +610,17 @@ let biroNiz = [
     priv: "/", 
     sort: "biro" 
   },
+   { 
+    ref: "Projektni biro", 
+    ime: "Jovan Radosavljević", 
+    broj: "064/29-888-64", 
+    svezajedno: "0652988864", 
+    skr: "/", 
+    email: "jovan.radosavljevic@kej.rs",
+    rodj: "/", 
+    priv: "/", 
+    sort: "biro" 
+  },
   { 
     ref: "Projektni biro", 
     ime: "Elena Radosavljević", 
